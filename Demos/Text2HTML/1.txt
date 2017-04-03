@@ -1,0 +1,13 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+</head>
+<body>
+Меня зовут Андрей Сорокин, я программист из солнечного ;) Питера.
+<P>
+Сейчас мое основное место работы - в проекте цифровой наличности
+для интернет: <a href="http://www.paycash.ru">www.paycash.ru</a>, <a href="http://www.cyphermint.com">www.cyphermint.com</a>. 
+<P>
+Связаться со мной можно по адресам <a href="mailto:anso@mail.ru">anso@mail.ru</a>, <a href="mailto:anso@paycash.ru">anso@paycash.ru</a>.
+</body>
+</html>
